@@ -8,3 +8,5 @@ python-dotenv==1.0.0
 
 alembic==1.11.1
 pydantic[email]
+
+passlib[bcrypt] #version bycrypt==4.0.1
